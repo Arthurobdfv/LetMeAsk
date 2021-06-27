@@ -9,7 +9,7 @@ This project was developed using the following technologies:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Como executar
+## 🚀 How to run the project
 
 Clone the git repository into your local machine.
 
@@ -28,27 +28,20 @@ $ yarn start
 ```
 After running those commands the project will be hosted on http://localhost:3000.
 
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+Just a reminder that it will be neede to create an account on [Firebase](https://firebase.google.com/) and one project in order to use the Realtime Database that the project needs
 
-## 💻 Projeto
+## 💻 The Project
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+Letmeask is perfect for content creators to set up a Q&A session room with the public.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+This project was developed during the **[Next Level Week Together](https://nextlevelweek.com/)**, which is like a 5-day bootcamp to develop a react application from scratch.
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através do link abaixo:
+You can check the layout of the project in the link below
 
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
+You'll need to be registered on [Figma](http://figma.com/).
 
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
