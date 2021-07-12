@@ -18,8 +18,8 @@ This project was developed using the following technologies:
 Clone the git repository into your local machine.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/Arthurobdfv/LetMeAsk.git
+$ cd LetMeAsk
 ```
 
 To run the project you need to follow these steps
